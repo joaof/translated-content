@@ -14,7 +14,7 @@ La rotation plane est définie par un angle, l'argument de la fonction. Si l'ang
 
 ## Syntaxe
 
-L'angle de la rotation créée grâce à `rotate()` est fourni comme argument à cette fonction via une aleur de type [`<angle>`](/fr/docs/Web/CSS/angle). Si l'angle est positif, la rotation sera dans le sens des aiguilles d'une montre et s'il est négatif, elle sera dans le sens inverse des aiguilles d'une montre.
+L'angle de la rotation créée grâce à `rotate()` est fourni comme argument à cette fonction via une valeur de type [`<angle>`](/fr/docs/Web/CSS/angle). Si l'angle est positif, la rotation sera dans le sens des aiguilles d'une montre et s'il est négatif, elle sera dans le sens inverse des aiguilles d'une montre.
 
 ```css
 rotate(a)
